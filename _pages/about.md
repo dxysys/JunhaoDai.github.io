@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academic personal websites"
+title: "Junhao Dai Academic Personal Websites"
 author_profile: true
 redirect_from: 
   - /about/
